@@ -1,7 +1,7 @@
 ## 15th DEC
 
-
-
+##For those who are running Seurat v5
+options(Seurat.object.assay.version = "v3")
 
 
 dsbNormalizeSeurat <- function(raw_file_path, seurat_file_path) {
